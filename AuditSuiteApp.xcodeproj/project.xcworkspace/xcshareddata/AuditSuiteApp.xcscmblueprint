@@ -1,6 +1,6 @@
 {
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
-    "81cafbf0-ae68-4a44-801f-892a409a74d8++4040" : {
+    "391B2D153CFF00018A819577973EB505D5DCFFC8" : {
 
     },
     "81cafbf0-ae68-4a44-801f-892a409a74d8++505" : {
@@ -8,12 +8,12 @@
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "81cafbf0-ae68-4a44-801f-892a409a74d8++4040" : 0,
+    "391B2D153CFF00018A819577973EB505D5DCFFC8" : 0,
     "81cafbf0-ae68-4a44-801f-892a409a74d8++505" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "23815DD5-FAE5-4CC5-990C-A1A5936BA225",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "81cafbf0-ae68-4a44-801f-892a409a74d8++4040" : "AuditSuiteApp\/",
+    "391B2D153CFF00018A819577973EB505D5DCFFC8" : "AuditSuiteApp\/",
     "81cafbf0-ae68-4a44-801f-892a409a74d8++505" : ""
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "AuditSuiteApp",
@@ -23,7 +23,7 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/hz-yumec.samtec.ad\/svn\/IOS",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "81cafbf0-ae68-4a44-801f-892a409a74d8++4040"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "391B2D153CFF00018A819577973EB505D5DCFFC8"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/hz-yumec.samtec.ad\/svn\/IOS",

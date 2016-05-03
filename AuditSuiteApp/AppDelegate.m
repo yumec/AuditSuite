@@ -85,22 +85,22 @@
 - (void)checkForAppUpdate
 {
 #ifdef IS_DEV
-	NSString *address = @"https://wwws.samtec.com/iOS/AuditSuiteDev.plist";
+	NSString *address = @"https://iosinstallsdev.samtec.com/IOS/AuditSuiteDev.plist";
     self.currentEnvironment = @"Dev";
 #endif
 
 #ifdef IS_TEST
-    NSString *address = @"https://wwws.samtec.com/iOS/AuditSuiteTest.plist";
+    NSString *address = @"https://iosinstallstest.samtec.com/IOS/AuditSuiteTest.plist";
     self.currentEnvironment = @"Test";
 #endif
 
 #ifdef IS_STAG
-    NSString *address = @"https://wwws.samtec.com/iOS/AuditSuiteStag.plist";
+    NSString *address = @"https://iosinstallsstag.samtec.com/IOS/AuditSuiteStag.plist";
     self.currentEnvironment = @"Stage";
 #endif   
 
 #ifdef IS_PROD
-    NSString *address = @"https://wwws.samtec.com/iOS/auditsuite.plist";
+    NSString *address = @"https://iosinstalls.samtec.com/IOS/AuditSuite.plist";
     self.currentEnvironment = @"Production";
 #endif
     
@@ -131,23 +131,23 @@
 	{
 		
 #ifdef IS_DEV
-        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"itms-services://?action=download-manifest&url=https://wwws.samtec.com/iOS/AuditSuiteDev.plist"]];
+        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"itms-services://?action=download-manifest&url=https://iosinstallsdev.samtec.com/IOS/AuditSuiteDev.plist"]];
 		return;
 #endif
 		
 		
 #ifdef IS_TEST
-        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"itms-services://?action=download-manifest&url=https://wwws.samtec.com/iOS/AuditSuiteTest.plist"]];
+        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"itms-services://?action=download-manifest&url=hhttps://iosinstallstest.samtec.com/IOS/AuditSuiteTest.plist"]];
 		return;
 #endif
 
 #ifdef IS_STAG
-        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"itms-services://?action=download-manifest&url=https://wwws.samtec.com/iOS/AuditSuiteStag.plist"]];
+        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"itms-services://?action=download-manifest&url=https://iosinstallsstag.samtec.com/IOS/AuditSuiteStag.plist"]];
 		return;
 #endif
 
 #ifdef IS_PROD
-        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"itms-services://?action=download-manifest&url=https://wwws.samtec.com/iOS/auditsuite.plist"]];
+        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"itms-services://?action=download-manifest&url=https://iosinstalls.samtec.com/IOS/AuditSuite.plist"]];
 #endif
 	}
 }

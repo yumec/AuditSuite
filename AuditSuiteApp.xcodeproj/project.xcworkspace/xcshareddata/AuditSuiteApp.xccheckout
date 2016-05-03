@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>23815DD5-FAE5-4CC5-990C-A1A5936BA225</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AuditSuiteApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>81cafbf0-ae68-4a44-801f-892a409a74d8++505</key>
+		<string>https://hz-yumec.samtec.ad/svn/IOS/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AuditSuiteApp/AuditSuiteApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>81cafbf0-ae68-4a44-801f-892a409a74d8++505</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>81cafbf0-ae68-4a44-801f-892a409a74d8++505</key>
+		<string>https://hz-yumec.samtec.ad/svn/IOS</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://hz-yumec.samtec.ad/svn/IOS/trunk/AuditSuiteApp/AuditSuiteApp.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>81cafbf0-ae68-4a44-801f-892a409a74d8++505</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>81cafbf0-ae68-4a44-801f-892a409a74d8++505</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IOS8</string>
+		</dict>
+	</array>
+</dict>
+</plist>

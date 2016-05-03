@@ -1,0 +1,40 @@
+{
+	users = (
+		{
+			userId = 7;
+			firstName = Esteban;
+			lastName = Corrales;
+			password = 1234;
+		},
+		{
+			userId = 1;
+			firstName = Andrei;
+			lastName = Escartin;
+			password = 1234;
+		},
+		{
+			userId = 2;
+			firstName = Brandon;
+			lastName = Rogers;
+			password = 1234;
+		},
+		{
+			userId = 3;
+			firstName = Melissa;
+			lastName = Roberts;
+			password = 1234;
+		},
+		{
+			userId = 4;
+			firstName = Craig;
+			lastName = Kennedy;
+			password = 1234;
+		},
+		{
+			userId = 5;
+			firstName = Jesse;
+			lastName = Love;
+			password = 1234;
+		},
+	);
+}

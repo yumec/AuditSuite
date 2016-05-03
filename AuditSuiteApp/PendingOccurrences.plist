@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PendingOccurrences</key>
+	<array>
+		<dict>
+			<key>seriesId</key>
+			<integer>1</integer>
+			<key>occurrenceId</key>
+			<integer>3</integer>
+			<key>areaId</key>
+			<integer>1</integer>
+			<key>areaDescription</key>
+			<string>Board Processing</string>
+			<key>typeId</key>
+			<integer>1</integer>
+			<key>typeDescription</key>
+			<string>Area/Floor</string>
+			<key>focusId</key>
+			<integer>1</integer>
+			<key>focusDescription</key>
+			<string>Expired Material</string>
+			<key>frequencyId</key>
+			<integer>1</integer>
+			<key>frequencyDescription</key>
+			<string>Daily</string>
+			<key>frequencyDays</key>
+			<integer>1</integer>
+			<key>occurrenceCount</key>
+			<integer>8</integer>
+			<key>instruction</key>
+			<string>This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction.</string>
+			<key>observationValue</key>
+			<string>PH Value</string>
+			<key>numberOfObservations</key>
+			<string>5</string>
+			<key>occurrenceDate</key>
+			<date>2011-12-08T20:57:46Z</date>
+			<key>status</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>seriesId</key>
+			<integer>2</integer>
+			<key>occurrenceId</key>
+			<integer>2</integer>
+			<key>areaId</key>
+			<integer>1</integer>
+			<key>areaDescription</key>
+			<string>Plating</string>
+			<key>typeId</key>
+			<integer>1</integer>
+			<key>typeDescription</key>
+			<string>Person/Process</string>
+			<key>focusId</key>
+			<integer>1</integer>
+			<key>focusDescription</key>
+			<string>SetUp Drill</string>
+			<key>frequencyId</key>
+			<integer>1</integer>
+			<key>frequencyDescription</key>
+			<string>Daily</string>
+			<key>frequencyDays</key>
+			<integer>1</integer>
+			<key>occurrenceCount</key>
+			<integer>4</integer>
+			<key>instruction</key>
+			<string>This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction.</string>
+			<key>observationValue</key>
+			<string>PH Value</string>
+			<key>numberOfObservations</key>
+			<string>3</string>
+			<key>occurrenceDate</key>
+			<date>2011-12-08T20:57:46Z</date>
+			<key>status</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>seriesId</key>
+			<integer>1</integer>
+			<key>occurrenceId</key>
+			<integer>4</integer>
+			<key>areaId</key>
+			<integer>1</integer>
+			<key>areaDescription</key>
+			<string>Board Processing</string>
+			<key>typeId</key>
+			<integer>1</integer>
+			<key>typeDescription</key>
+			<string>Area/Floor</string>
+			<key>focusId</key>
+			<integer>1</integer>
+			<key>focusDescription</key>
+			<string>Expired Material</string>
+			<key>frequencyId</key>
+			<integer>1</integer>
+			<key>frequencyDescription</key>
+			<string>Daily</string>
+			<key>frequencyDays</key>
+			<integer>1</integer>
+			<key>occurrenceCount</key>
+			<integer>8</integer>
+			<key>instruction</key>
+			<string>This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction.</string>
+			<key>observationValue</key>
+			<string>PH Value</string>
+			<key>numberOfObservations</key>
+			<string>5</string>
+			<key>occurrenceDate</key>
+			<date>2011-12-09T20:57:46Z</date>
+			<key>status</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>seriesId</key>
+			<integer>3</integer>
+			<key>occurrenceId</key>
+			<integer>1</integer>
+			<key>areaId</key>
+			<integer>1</integer>
+			<key>areaDescription</key>
+			<string>Board Processing</string>
+			<key>typeId</key>
+			<integer>1</integer>
+			<key>typeDescription</key>
+			<string>Machine/Tooling</string>
+			<key>focusId</key>
+			<integer>1</integer>
+			<key>focusDescription</key>
+			<string>Air Press</string>
+			<key>frequencyId</key>
+			<integer>1</integer>
+			<key>frequencyDescription</key>
+			<string>Daily</string>
+			<key>frequencyDays</key>
+			<integer>1</integer>
+			<key>occurrenceCount</key>
+			<integer>3</integer>
+			<key>instruction</key>
+			<string>This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction.</string>
+			<key>observationValue</key>
+			<string>PH Value</string>
+			<key>numberOfObservations</key>
+			<string>3</string>
+			<key>occurrenceDate</key>
+			<date>2011-12-11T20:57:46Z</date>
+			<key>status</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>seriesId</key>
+			<integer>1</integer>
+			<key>occurrenceId</key>
+			<integer>5</integer>
+			<key>areaId</key>
+			<integer>1</integer>
+			<key>areaDescription</key>
+			<string>Board Processing</string>
+			<key>typeId</key>
+			<integer>1</integer>
+			<key>typeDescription</key>
+			<string>Area/Floor</string>
+			<key>focusId</key>
+			<integer>1</integer>
+			<key>focusDescription</key>
+			<string>Expired Material</string>
+			<key>frequencyId</key>
+			<integer>1</integer>
+			<key>frequencyDescription</key>
+			<string>Daily</string>
+			<key>frequencyDays</key>
+			<integer>1</integer>
+			<key>occurrenceCount</key>
+			<integer>8</integer>
+			<key>instruction</key>
+			<string>This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction.</string>
+			<key>observationValue</key>
+			<string>PH Value</string>
+			<key>numberOfObservations</key>
+			<string>5</string>
+			<key>occurrenceDate</key>
+			<date>2011-12-12T20:57:46Z</date>
+			<key>status</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>seriesId</key>
+			<integer>1</integer>
+			<key>occurrenceId</key>
+			<integer>6</integer>
+			<key>areaId</key>
+			<integer>1</integer>
+			<key>areaDescription</key>
+			<string>Board Processing</string>
+			<key>typeId</key>
+			<integer>1</integer>
+			<key>typeDescription</key>
+			<string>Area/Floor</string>
+			<key>focusId</key>
+			<integer>1</integer>
+			<key>focusDescription</key>
+			<string>Expired Material</string>
+			<key>frequencyId</key>
+			<integer>1</integer>
+			<key>frequencyDescription</key>
+			<string>Daily</string>
+			<key>frequencyDays</key>
+			<integer>1</integer>
+			<key>occurrenceCount</key>
+			<integer>8</integer>
+			<key>instruction</key>
+			<string>This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction.</string>
+			<key>observationValue</key>
+			<string>PH Value</string>
+			<key>numberOfObservations</key>
+			<string>5</string>
+			<key>occurrenceDate</key>
+			<date>2011-12-13T20:57:46Z</date>
+			<key>status</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>seriesId</key>
+			<integer>2</integer>
+			<key>occurrenceId</key>
+			<integer>3</integer>
+			<key>areaId</key>
+			<integer>1</integer>
+			<key>areaDescription</key>
+			<string>Plating</string>
+			<key>typeId</key>
+			<integer>1</integer>
+			<key>typeDescription</key>
+			<string>Person/Process</string>
+			<key>focusId</key>
+			<integer>1</integer>
+			<key>focusDescription</key>
+			<string>SetUp Drill</string>
+			<key>frequencyId</key>
+			<integer>1</integer>
+			<key>frequencyDescription</key>
+			<string>Daily</string>
+			<key>frequencyDays</key>
+			<integer>1</integer>
+			<key>occurrenceCount</key>
+			<integer>4</integer>
+			<key>instruction</key>
+			<string>This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction.</string>
+			<key>observationValue</key>
+			<string>PH Value</string>
+			<key>numberOfObservations</key>
+			<string>3</string>
+			<key>occurrenceDate</key>
+			<date>2011-12-13T20:57:46Z</date>
+			<key>status</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>seriesId</key>
+			<integer>3</integer>
+			<key>occurrenceId</key>
+			<integer>2</integer>
+			<key>areaId</key>
+			<integer>1</integer>
+			<key>areaDescription</key>
+			<string>Board Processing</string>
+			<key>typeId</key>
+			<integer>1</integer>
+			<key>typeDescription</key>
+			<string>Machine/Tooling</string>
+			<key>focusId</key>
+			<integer>1</integer>
+			<key>focusDescription</key>
+			<string>Air Press</string>
+			<key>frequencyId</key>
+			<integer>1</integer>
+			<key>frequencyDescription</key>
+			<string>Daily</string>
+			<key>frequencyDays</key>
+			<integer>1</integer>
+			<key>occurrenceCount</key>
+			<integer>3</integer>
+			<key>instruction</key>
+			<string>This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction.</string>
+			<key>observationValue</key>
+			<string>PH Value</string>
+			<key>numberOfObservations</key>
+			<string>3</string>
+			<key>occurrenceDate</key>
+			<date>2011-12-13T20:57:46Z</date>
+			<key>status</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>seriesId</key>
+			<integer>4</integer>
+			<key>occurrenceId</key>
+			<integer>1</integer>
+			<key>areaId</key>
+			<integer>1</integer>
+			<key>areaDescription</key>
+			<string>Board Processing</string>
+			<key>typeId</key>
+			<integer>1</integer>
+			<key>typeDescription</key>
+			<string>Machine/Tooling</string>
+			<key>focusId</key>
+			<integer>1</integer>
+			<key>focusDescription</key>
+			<string>Kapton Press</string>
+			<key>frequencyId</key>
+			<integer>1</integer>
+			<key>frequencyDescription</key>
+			<string>Daily</string>
+			<key>frequencyDays</key>
+			<integer>1</integer>
+			<key>occurrenceCount</key>
+			<integer>2</integer>
+			<key>instruction</key>
+			<string>This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction.</string>
+			<key>observationValue</key>
+			<string>PH Value</string>
+			<key>numberOfObservations</key>
+			<string>5</string>
+			<key>occurrenceDate</key>
+			<date>2011-12-13T20:57:46Z</date>
+			<key>status</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>seriesId</key>
+			<integer>5</integer>
+			<key>occurrenceId</key>
+			<integer>2</integer>
+			<key>areaId</key>
+			<integer>1</integer>
+			<key>areaDescription</key>
+			<string>Basic Connector Assembly, Complex Connector Assembly</string>
+			<key>typeId</key>
+			<integer>1</integer>
+			<key>typeDescription</key>
+			<string>Person/Process</string>
+			<key>focusId</key>
+			<integer>1</integer>
+			<key>focusDescription</key>
+			<string>Packaging</string>
+			<key>frequencyId</key>
+			<integer>1</integer>
+			<key>frequencyDescription</key>
+			<string>Daily</string>
+			<key>frequencyDays</key>
+			<integer>1</integer>
+			<key>occurrenceCount</key>
+			<integer>2</integer>
+			<key>instruction</key>
+			<string>This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction.</string>
+			<key>observationValue</key>
+			<string>PH Value</string>
+			<key>numberOfObservations</key>
+			<string>1</string>
+			<key>occurrenceDate</key>
+			<date>2011-12-13T20:57:46Z</date>
+			<key>status</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>seriesId</key>
+			<integer>1</integer>
+			<key>occurrenceId</key>
+			<integer>7</integer>
+			<key>areaId</key>
+			<integer>1</integer>
+			<key>areaDescription</key>
+			<string>Board Processing</string>
+			<key>typeId</key>
+			<integer>1</integer>
+			<key>typeDescription</key>
+			<string>Area/Floor</string>
+			<key>focusId</key>
+			<integer>1</integer>
+			<key>focusDescription</key>
+			<string>Expired Material</string>
+			<key>frequencyId</key>
+			<integer>1</integer>
+			<key>frequencyDescription</key>
+			<string>Daily</string>
+			<key>frequencyDays</key>
+			<integer>1</integer>
+			<key>occurrenceCount</key>
+			<integer>8</integer>
+			<key>instruction</key>
+			<string>This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction.</string>
+			<key>observationValue</key>
+			<string>PH Value</string>
+			<key>numberOfObservations</key>
+			<string>5</string>
+			<key>occurrenceDate</key>
+			<date>2011-12-14T20:57:46Z</date>
+			<key>status</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>seriesId</key>
+			<integer>3</integer>
+			<key>occurrenceId</key>
+			<integer>3</integer>
+			<key>areaId</key>
+			<integer>1</integer>
+			<key>areaDescription</key>
+			<string>Board Processing</string>
+			<key>typeId</key>
+			<integer>1</integer>
+			<key>typeDescription</key>
+			<string>Machine/Tooling</string>
+			<key>focusId</key>
+			<integer>1</integer>
+			<key>focusDescription</key>
+			<string>Air Press</string>
+			<key>frequencyId</key>
+			<integer>1</integer>
+			<key>frequencyDescription</key>
+			<string>Daily</string>
+			<key>frequencyDays</key>
+			<integer>1</integer>
+			<key>occurrenceCount</key>
+			<integer>3</integer>
+			<key>instruction</key>
+			<string>This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction.</string>
+			<key>observationValue</key>
+			<string>PH Value</string>
+			<key>numberOfObservations</key>
+			<string>3</string>
+			<key>occurrenceDate</key>
+			<date>2011-12-14T20:57:46Z</date>
+			<key>status</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>seriesId</key>
+			<integer>1</integer>
+			<key>occurrenceId</key>
+			<integer>8</integer>
+			<key>areaId</key>
+			<integer>1</integer>
+			<key>areaDescription</key>
+			<string>Board Processing</string>
+			<key>typeId</key>
+			<integer>1</integer>
+			<key>typeDescription</key>
+			<string>Area/Floor</string>
+			<key>focusId</key>
+			<integer>1</integer>
+			<key>focusDescription</key>
+			<string>Expired Material</string>
+			<key>frequencyId</key>
+			<integer>1</integer>
+			<key>frequencyDescription</key>
+			<string>Daily</string>
+			<key>frequencyDays</key>
+			<integer>1</integer>
+			<key>occurrenceCount</key>
+			<integer>8</integer>
+			<key>instruction</key>
+			<string>This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction.</string>
+			<key>observationValue</key>
+			<string>PH Value</string>
+			<key>numberOfObservations</key>
+			<string>5</string>
+			<key>occurrenceDate</key>
+			<date>2011-12-16T20:57:46Z</date>
+			<key>status</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>seriesId</key>
+			<integer>4</integer>
+			<key>occurrenceId</key>
+			<integer>2</integer>
+			<key>areaId</key>
+			<integer>1</integer>
+			<key>areaDescription</key>
+			<string>Board Processing</string>
+			<key>typeId</key>
+			<integer>1</integer>
+			<key>typeDescription</key>
+			<string>Machine/Tooling</string>
+			<key>focusId</key>
+			<integer>1</integer>
+			<key>focusDescription</key>
+			<string>Kapton Press</string>
+			<key>frequencyId</key>
+			<integer>1</integer>
+			<key>frequencyDescription</key>
+			<string>Daily</string>
+			<key>frequencyDays</key>
+			<integer>1</integer>
+			<key>occurrenceCount</key>
+			<integer>2</integer>
+			<key>instruction</key>
+			<string>This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction.</string>
+			<key>observationValue</key>
+			<string>PH Value</string>
+			<key>numberOfObservations</key>
+			<string>5</string>
+			<key>occurrenceDate</key>
+			<date>2011-12-19T20:57:46Z</date>
+			<key>status</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>seriesId</key>
+			<integer>5</integer>
+			<key>occurrenceId</key>
+			<integer>3</integer>
+			<key>areaId</key>
+			<integer>1</integer>
+			<key>areaDescription</key>
+			<string>Basic Connector Assembly, Complex Connector Assembly</string>
+			<key>typeId</key>
+			<integer>1</integer>
+			<key>typeDescription</key>
+			<string>Person/Process</string>
+			<key>focusId</key>
+			<integer>1</integer>
+			<key>focusDescription</key>
+			<string>Packaging</string>
+			<key>frequencyId</key>
+			<integer>1</integer>
+			<key>frequencyDescription</key>
+			<string>Daily</string>
+			<key>frequencyDays</key>
+			<integer>1</integer>
+			<key>occurrenceCount</key>
+			<integer>2</integer>
+			<key>instruction</key>
+			<string>This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction. This is the instruction.</string>
+			<key>observationValue</key>
+			<string>PH Value</string>
+			<key>numberOfObservations</key>
+			<string>1</string>
+			<key>occurrenceDate</key>
+			<date>2011-12-22T20:57:46Z</date>
+			<key>status</key>
+			<string> </string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -95,7 +95,7 @@
 #endif
 
 #ifdef IS_STAG
-    NSString *address = @"https://iosinstallsstag.samtec.com/IOS/AuditSuiteStag.plist";
+    NSString *address = @"https://iosinstallsstage.samtec.com/IOS/AuditSuiteStag.plist";
     self.currentEnvironment = @"Stage";
 #endif   
 
@@ -142,7 +142,7 @@
 #endif
 
 #ifdef IS_STAG
-        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"itms-services://?action=download-manifest&url=https://iosinstallsstag.samtec.com/IOS/AuditSuiteStag.plist"]];
+        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"itms-services://?action=download-manifest&url=https://iosinstallsstage.samtec.com/IOS/AuditSuiteStag.plist"]];
 		return;
 #endif
 

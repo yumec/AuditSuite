@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://wwws.samtec.com/iOS/AuditSuiteDev.ipa</string>
+					<string>https://iosinstallsdev.samtec.com/iOS/AuditSuiteDev.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://wwws.samtec.com/iOS/iconIPA.png</string>
+					<string>https://iosinstallsdev.samtec.com/iOS/iconIPA.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://wwws.samtec.com/iOS/iconIPA72x72.png</string>
+					<string>https://iosinstallsdev.samtec.com/iOS/iconIPA72x72.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.samtec.auditsuite.dev</string>
 				<key>bundle-version</key>
-				<string>1.44</string>
+				<string>1.45</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>

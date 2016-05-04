@@ -137,7 +137,7 @@
 		
 		
 #ifdef IS_TEST
-        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"itms-services://?action=download-manifest&url=hhttps://iosinstallstest.samtec.com/IOS/AuditSuiteTest.plist"]];
+        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"itms-services://?action=download-manifest&url=https://iosinstallstest.samtec.com/IOS/AuditSuiteTest.plist"]];
 		return;
 #endif
 

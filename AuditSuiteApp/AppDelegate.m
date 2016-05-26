@@ -110,7 +110,9 @@
     
     self.currentVersion = [NSString stringWithFormat:@"Current Version: %@", clientVersionStr];
     
-    if ([clientVersionStr compare:serverVersionStr] != 0)
+    if (clientVersionStr != nil
+        && serverVersionStr != nil
+        && [clientVersionStr compare:serverVersionStr] != 0)
     {
         UIAlertView *alert =
         [[UIAlertView alloc] initWithTitle: @"Update Available"

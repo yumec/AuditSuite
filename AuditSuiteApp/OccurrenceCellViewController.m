@@ -2147,10 +2147,10 @@ UISwitch *copySelectedShiftSwitch;
 	if (textField.tag == 1) {
 
 		NSCharacterSet *controlSet = [NSCharacterSet controlCharacterSet];
-		if (![string stringByTrimmingCharactersInSet:controlSet].length > 0) {
-			return YES;
-		}
-		
+        if (!([string stringByTrimmingCharactersInSet:controlSet].length > 0)) {
+            return YES;
+        }
+        
 		NSCharacterSet *nonNumberSet = [[NSCharacterSet characterSetWithCharactersInString:DECIMALCHARSET] invertedSet];
 		return ([string stringByTrimmingCharactersInSet:nonNumberSet].length > 0);
 	}
